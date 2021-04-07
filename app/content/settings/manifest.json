@@ -1,8 +1,8 @@
 {
   "name": "Bluise",
   "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "description": "A Security Protocol Application to build trust.",
   "themeColor": "#0b3765",
-  "backgroundColor": "#ffffff",
+  "backgroundColor": "#48a0a3",
   "lang": "en"
 }
